@@ -1,0 +1,10 @@
+{
+  "simulation": "TestToolmania",
+  "simulationId": "testtoolmania",
+  "start": 1621624885164,
+  "description": "toolmania test",
+  "scenarios": ["TestToolmania"],
+  "assertions": [
+
+  ]
+}
